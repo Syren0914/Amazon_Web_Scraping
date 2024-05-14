@@ -7,7 +7,8 @@ This Python script is designed to scrape product details from Amazon.com using P
 ### 1. Installation
 
 - Install Python (if not already installed).
-- Install the required Python packages by running: 
+- Install the required Python packages by running:
+- python amazon_scraper.py
 
 
 
